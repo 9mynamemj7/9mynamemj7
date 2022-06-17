@@ -1,5 +1,5 @@
-### 👋Hi there #3776AB
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue"/>
+### 👋Hi there
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <!--
 **9mynamemj7/9mynamemj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,16 +1,14 @@
-# 🌱Hi there
-__I am__
+<h2> Hi, I'm MJ!</h2>
 
-    currently learning ML/DL at Multicampus 
-    graduated from University of International business and Economics(Beijing) 
-    majoring in International business and Economics
+Certificated Multicampus Bigdata-based AI sevice Dev program<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p>International business and Economics at <a href="http://jwc.uibe.edu.cn/">UIBE(Beijing)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/>
     
     
 
 <div align=center>
   
 ## Tech
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=VSCODE&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=#F37626"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <br><br><br>
 
 
